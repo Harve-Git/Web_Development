@@ -1,2 +1,11 @@
-Basic Codes For Languages
-Projects    
+Currently working on: - HTML5
+Status: - Inprogess
+Created 2 Folders
+- html_codes
+- html-boilerplate
+
+1. html_codes
+Contains html code containing how to use different tags.
+
+2. html-boilerplate
+Contains html code containing basic template to used for web pages.
